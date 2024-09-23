@@ -1,0 +1,5 @@
+version: '3.4'
+ 
+services:
+  rag_api:
+    image: ghcr.io/danny-avila/librechat-rag-api-dev:latest
